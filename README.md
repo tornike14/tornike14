@@ -8,7 +8,6 @@
 
 ### Connect with me:
 
-<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.linkedin.com/in/tornike-nizharadze-7832a81a0/" />
 <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br />
