@@ -1,9 +1,9 @@
 ### Hi there, I'm Tornike - aka Nizhara 👋
 
 ## I'm a Student and Web-Developer!
-- 🔭 I’m currently working on my personal projects! (Cloning large websites)
-- ⚡ I’m currently learning Front-end
-- 🥅 2021 Goals: Improve My Skills!
+- 🔭 I’m currently working in HobbyStudio!
+- ⚡ I’m currently learning a javascript framework react.js!
+- 🥅 2022 Goals: Improve My Skills!
 
 
 ### Connect with me:
