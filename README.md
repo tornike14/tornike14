@@ -1,4 +1,4 @@
-### Hi there, I'm Tornike - aka Nizhara 👋
+### Hi there, I'm Tornike 👋
 
 ## I'm a Student and Web-Developer!
 - 🔭 I’m currently working in HobbyStudio!
