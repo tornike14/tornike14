@@ -2,7 +2,7 @@
 
 ## I'm a Student and Web-Developer!
 - 🔭 I’m currently working in HobbyStudio!
-- ⚡ I’m currently learning a javascript framework react.js!
+- ⚡ Learning a javascript framework react.js!
 - 🥅 2022 Goals: Improve My Skills!
 
 
