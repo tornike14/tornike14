@@ -1,9 +1,9 @@
 ### Hi there, I'm Tornike 👋
 
 ## I'm a Student and Web-Developer!
-- 🔭 I’m currently working in HobbyStudio!
-- ⚡ Learning a javascript framework react.js!
-- 🥅 2022 Goals: Improve My Skills!
+- 🔭 I’m currently working in Pyme!
+- ⚡ Learning a react.js framework next.js!
+- 🥅 2023 Goals: Don't drink coffee!
 
 
 ### Connect with me:
