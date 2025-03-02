@@ -3,7 +3,7 @@
 ## I'm a Web Developer!
 - 🔭 I’m currently working in Moncero!
 - ⚡ Learning a backend!
-- 🥅 2024 Goals: Mastering Node.js!
+- 🥅 2025 Goals: Mastering Node.js and Three.js!
 
 <br />
 
