@@ -1,9 +1,9 @@
 ### Hi there, I'm Tornike 👋
 
 ## I'm a Web Developer!
-- 🔭 I’m currently working in Pyme!
-- ⚡ Learning a react.js framework next.js!
-- 🥅 2023 Goals: Mastering Typescript!
+- 🔭 I’m currently working in Moncero!
+- ⚡ Learning a backend!
+- 🥅 2024 Goals: Mastering Node.js!
 
 <br />
 
